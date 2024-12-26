@@ -1018,7 +1018,6 @@ from .nodes.P5 import P5Input
 # 要导出的所有节点及其名称的字典
 # 注意：名称应全局唯一
 NODE_CLASS_MAPPINGS = {
-    "AppInfo":AppInfo,
     "TESTNODE_":TESTNODE_,
     "TESTNODE_TOKEN":TESTNODE_TOKEN,
 
@@ -1136,7 +1135,6 @@ NODE_CLASS_MAPPINGS = {
 
 # 一个包含节点友好/可读的标题的字典
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "AppInfo":"App Info ♾️Mixlab",
     "TESTNODE_":"TESTNODE_ ♾️Mixlab",
     "TESTNODE_TOKEN":"TESTNODE_TOKEN ♾️Mixlab",
 
