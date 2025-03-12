@@ -8,7 +8,7 @@ torchaudio
 
 clip-interrogator==0.6.0
 transformers>=4.36.0
-lark-parser
+lark
 imageio-ffmpeg
 rembg[gpu]
 omegaconf>=2.3.0
